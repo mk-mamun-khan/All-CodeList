@@ -1,0 +1,21 @@
+ hide-empty-remove-alert-confirm-prompt--
+----------------------------------------------------------------------
+hide===display none hobe.
+empty==display none hobe , o p tag thakbe kintu kono lekha thakbe na.
+remove==display none hobe , o tag none hoye jabe.
+
+
+$('button').click(function(){
+          alert('apni sess hoiya jaben');
+});
+ata diye alert message deoya hoy. kintu kono cancle button diye back asha jay na.
+
+$('button').click(function(){
+          confirm('apni ki nischit ? ');
+});
+ata diye alert message deoya hoy. o cancle button diye back asha jay.
+
+$('button').click(function(){
+          prompt('apni koto tk dite chan ? ');
+});
+ata diye alert message deoya hoy. o cancle button diye back asha jay. O akta input button deoya hoy kono data neyar jonno.

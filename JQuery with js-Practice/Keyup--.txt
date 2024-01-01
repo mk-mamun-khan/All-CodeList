@@ -1,0 +1,16 @@
+Keyup--
+------------
+<input type="text">
+<h1></h1>
+
+
+
+$('input').keyup(function(){
+
+let value = $(this).val();
+
+$('h1').html(value);
+
+});
+
+input a ja type kora hobe sob h1 tag diye show hobe.

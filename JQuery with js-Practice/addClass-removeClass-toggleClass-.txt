@@ -1,0 +1,11 @@
+addClass-removeClass-toggleClass
+-------------------------------------------------------
+$('h1').addClass('title');
+$('h1').removeClass('title');
+akhane JQuery diye kono tag ar vitore Class add ba Remove kora jay . r ai Class diye css a design kora jay.
+
+
+$('h1').click(function(){
+         $('h1').toggleClass('effect');
+});
+ai toggleClass diye css a je kono effect design kora jay.

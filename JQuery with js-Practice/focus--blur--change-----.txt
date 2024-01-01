@@ -1,0 +1,26 @@
+focus--blur--change-----
+--------------------------------------
+<input>  -  tag
+
+focus
+----------
+$('input').focus(function(){
+
+   alart('hi');
+});                                 input tag a focus korle 
+
+
+blur
+--------
+$('input').blur(function(){
+
+   alart('hi');
+});                                  input tag a focus kore baire focus korle 
+
+
+change
+--------------
+$('input').change(function(){
+
+   alart('hi');
+});                                      input tag ar valu change korle 

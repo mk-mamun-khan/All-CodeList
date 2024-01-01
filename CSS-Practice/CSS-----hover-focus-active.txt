@@ -1,0 +1,11 @@
+CSS hover-focus-active
+-----------------------------------------
+hover= kono box div ba text ar opur 'cursor maus' rakle hover hoy.
+focus= kono box div ba text ar opur 'cursor maus' diye click korle focus hoy.
+actice= kono box div ba text ar opur last click ke active bole.
+
+.box:hover {
+   background-color: green;
+}
+
+(potita kaje click ar shathe-shathe alada color hoy) 

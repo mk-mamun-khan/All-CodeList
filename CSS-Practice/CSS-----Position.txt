@@ -1,0 +1,20 @@
+CSS position
+------------------------
+position: absolute;                 position: absolute;                                                         position: absolute;           
+top: 0px;                                   top: 0px;                                                                           top: 0px;   
+left: 0px;                                   left: 0px;                                                                           bottom: 0px;
+(avabe 4 kona)                       right: 0px;                                                                         left: 0px;  
+                                                  margin: auto;  (avabe 4 saide ar center)                    right: 0px;  
+                                                 (je saide center hobe sei said r tar 2 pash.)                margin: auto;   (ata center a kaj korbe)
+
+
+position: relative;  (kono div-box ar vitore r akta box niye kaj korle , box ar position absolute diye position cheang 
+korle div-box thike r akta box bahire chole jay . tokhon 1 number box ke bole dite hoy -- position: relative; ) 
+
+
+position: fixed;  (kono div-box ke akta jaygay juliye rakhar jonno position fixed dite hoy)
+
+valu===== sob gula valu ak vabe kaj kore.
+
+
+

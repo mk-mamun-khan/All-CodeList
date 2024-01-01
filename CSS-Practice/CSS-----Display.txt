@@ -1,0 +1,8 @@
+CSS-----Display
+--------------------------------
+1. Block                                      Block                         Inline                          Block                                 inline                              inline-block
+2. Inline                                    ------------                        -------------                        -------------                            ---------------                          -----------------------
+3. Inline-block                         h1-div                          span-a                       1. new line                        1. no-new-line               1. height-width         
+4. None                                   p-ul                              button                       2. full width                      2. no-full-width
+                                                form                            textarea                     3. height & width            3. no-height-width
+                                                                                     Cite

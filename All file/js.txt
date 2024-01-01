@@ -1,0 +1,89 @@
+=== All functions ===
+
+click
+show
+hide
+toggle
+slideDown
+slideUp
+slideToggle 
+fadeIn
+fadeOut 
+fadeToggle 
+
+text
+html
+css
+val
+attr
+removeAttr 
+
+append
+prepend
+before
+after 
+
+addClass
+removeClass
+toggleClass 
+
+hide
+empty
+remove 
+
+alert
+confirm 
+pormpt
+
+
+setInterval 
+clearInterval 
+
+=== event ===
+
+click
+dblclick
+mouseenter
+mouseleave 
+
+
+
+focus
+blur
+change 
+submit 
+
+keyup 
+
+=== Programming ===
+dataTypes 
+statements
+concate 
+variables 
+operators 
+if else, else if
+
+
+===  application ===
+*** 
+1. Result system 
+2. user data check 
+3. tab 
+4. accordions 
+5. conditional UI 
+6. Facebook - issu 
+7. Vot 
+
+
+
+
+
+
+
+
+
+
+
+
+
+

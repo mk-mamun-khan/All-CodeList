@@ -1,0 +1,22 @@
+JQuery with js
+-----------------------
+$('.box').hide();  / show
+
+$('a').click(function(){
+        $('p').hide();  / show  / toggle 
+});                                                                   (show hobe hide hobe. show-hide)
+
+
+$('a').click(function(){
+          $('p').slideDown(1000);  / slideUp  / slideToggle
+});                                                                                                            (aupur UP hobe Down hobe. Up-Down)
+
+
+$('a').click(function(){
+         $('p').fadeIn(1000);  / fadeOut  / fadeToggle
+});                                                                                                  ( zapsha hoye asbe IN hobe abar Out hobe. In-Out)
+
+
+$('button').click(function(){
+        $('h2').html('my name is <span style="color:red;">mk mamun khan</span>');   / text 
+});                                                                                                                                                                                (duitar i kaj ak . akhane html ar power beshi akhane barti style kora jay . kintu TEXT a style kora jay na,)

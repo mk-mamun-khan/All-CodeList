@@ -1,0 +1,36 @@
+Username check--
+-----------------------------
+
+<input id="username" type="text" placeholder="Enter your Username">
+<h2></h2>
+
+
+        $('input#username').keyup(function(){
+
+           let value = $(this).val();
+           $('h2').html(value.length);
+        });
+akhane input a ja type kora hobe h2 tag a number count hobe..(mk ===2---mkmamunkhan ===11)
+
+
+
+        $('input#username').keyup(function(){
+
+           let value = $(this).val();
+           let value_len = value.length;
+
+           if( value_len == 0 ){
+            $('h2').html('<span style="color:red;">Please enter your Username!</span>');
+
+           }else if( value_len > 0 && value_len <= 7 ){
+             $('h2').html('<span style="color:red;">Username incorrect</span>');
+
+           }else if( value_len > 7 && value_len <= 12){
+            $('h2').html('<span style="color:green;">Username correct</span>');
+
+           }else if( value_len > 12 ){
+            $('h2').html('<span style="color:red;">Username will be 12 digits</span>')
+
+           }
+         
+        });

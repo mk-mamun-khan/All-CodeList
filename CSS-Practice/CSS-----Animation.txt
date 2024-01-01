@@ -1,0 +1,38 @@
+CSS Animation
+------------------------
+@keyframes Animation{
+    from  0%{
+           right: 0px;
+           bottom: 0px;  
+           background: red;
+      }
+      50%{
+      	bottom: 350px;
+      	background: green;
+      }
+      100%{
+             right: 1500px;
+             bottom: 0px;
+             background: yellow;
+      }
+}
+#box {
+	width: 300px;
+	height: 300px;
+    margin: 50px 1500px 0px;
+    border-radius: 50%;
+    position: relative;
+
+    animation-name: Animation;
+    animation-duration: 2s;
+    animation-iteration-count: infinite;
+    animation-direction: alternate-reverse;
+    animation-delay: 0.50s;
+    animation-play-state: running;
+    animation-timing-function: ease-in;
+}
+#box img{
+	width: 300px;
+	height: 300px;
+	border-radius: 50%;
+}

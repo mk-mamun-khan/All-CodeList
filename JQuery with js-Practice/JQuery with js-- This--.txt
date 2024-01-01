@@ -1,0 +1,13 @@
+JQuery with js-- this-
+-------------------------------
+$('h2').click(function(){
+                 $('this').slideUp(1000);
+});
+akhane -this -holo je kono akta kaj korbe
+jetate click korbo shudhu seta kaj korbe
+
+<h2>this is JQuery with js</h2>
+<h2>this is JQuery with js</h2>
+<h2>this is JQuery with js</h2>
+<h2>this is JQuery with js</h2>
+<h2>this is JQuery with js</h2>

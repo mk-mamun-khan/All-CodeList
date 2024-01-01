@@ -1,0 +1,26 @@
+CSS color code
+--------------------------
+background-color: ;
+
+black , red , yellow , white ,
+
+hex code
+black= #000000  sod gula code ak hole 3 ta code dile o kaj kore , #000
+
+red = #FF0000 
+
+yellow= #FFFF00 
+
+white = #FFFFFF  sod gula code ak hole 3 ta code dile o kaj kore , #FFF
+
+
+background-color: ;
+valu------ 
+black= rgba(0, 0, 0, 1) 
+
+red= rgba(255, 0, 0, 1)
+
+yellow= rgba(255, 255, 0, 1)
+
+white= rgba(255, 255, 255, 1)   1 ta holo solid color , .5  .6  .7 .8 .9 a gula dile color halka hobe. RGBA(0 , 0, 0, 1) ai code gula diye akta color diye onek color kore neoya jay.
+

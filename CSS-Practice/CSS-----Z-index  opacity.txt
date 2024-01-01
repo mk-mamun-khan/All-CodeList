@@ -1,0 +1,10 @@
+CSS z-index / opacity
+--------------
+z-index: ;    -valu---1 thike 10 ,
+akadhik img ba div-box thakle z-index diye jar valu joto beshi deoya jay shei igm samne thakey.
+z-index: 7;     ----   z-index: 9;
+
+
+opacity: ;   -  valu---- 0 thike 1 ,
+ kono img ba box ke halka zapsha kora hoy .
+ opacity:  .5 ;     .6 , .9 ,  .7 ,

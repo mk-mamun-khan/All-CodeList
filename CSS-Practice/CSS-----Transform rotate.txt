@@ -1,0 +1,17 @@
+CSS Transform rotate
+------------------------------------------
+.box:hover {
+         transform: rotate(180deg);   
+}                valu----     x,y(-180deg)
+                               scale(2gun ba tar beshi) jum,jumout hobe
+abar duita valu ak shathe use kora jay.
+transform: rotate(180deg) scale(3);  
+
+h2:hover {
+      transform: translare(0px , 0px); akhane - valu o ase , (-0px , 0px)
+}                         ata diye text dane-bame, opure-nichem rotate ar kaj kore.
+
+
+transition: 1s;
+ata kaj kore rotate shomoy hisebe.
+                                      

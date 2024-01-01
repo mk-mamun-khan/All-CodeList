@@ -1,0 +1,14 @@
+git--command 
+---------------------------
+git version check--------- git version ,,,,  ls ,,,,  clear / ctrl+L  ,,
+username or email setup-------- git config --global user.name "mamun-khan"
+                                                      git config --global user.email "mamunkhanpabna1@gmail.com"
+
+change username or email------ git config --global user.name "mamun"
+                                                       git config --global user.name "demo@gmail.com"
+
+and all setpu check----------------- git config --list
+username or email check------------ git config user.name
+                                                          git config user.email 
+
+pc te kon file a asi ta check--------- pwd

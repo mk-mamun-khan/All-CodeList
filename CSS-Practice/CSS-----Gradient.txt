@@ -1,0 +1,16 @@
+CSS Gradient
+-------------------------
+valu----- background color---
+background: linear-gradient(to right,/left,/ green, red, blue, aqua, indigo, yellow);
+                                                                  to bottom right,
+                                                                  to top right, /  70deg, / 100deg, /360deg, last
+                                                                  green 70%, / red 100px
+background: repeating-linear-gradient(green 20%, red 30%, yellow 40%);
+                       barbar color hobe
+
+background: radial-gradient(circle, / green, red, blue);
+                                                    closest-side at 40% 50%
+                                                                              l-r    t-b
+                                                    farthest-side at 40% 50%
+                                                                                l-r     t-b
+  background: repeating-radial-gradient(green 10%, red 20%, yellow 10%);

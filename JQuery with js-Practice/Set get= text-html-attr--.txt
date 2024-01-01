@@ -1,0 +1,24 @@
+Set get= text-html-attr--
+--------------------------------------
+Set=
+------- 
+<button>click</button>
+<h3>MK Mamun Khan</h3>
+
+      $('button').click(function(){
+
+            $('h3').html('Mamun');
+            
+      });
+
+
+
+get=
+-------
+      $('button').click(function(){
+
+      	let name = $('h3').html();
+            alert(name);
+      });
+
+button tag click koranor pore h3 tag a kono valu na thakar karone h3 tag let name ke diye dey. o alert diye h3-name message show kore.

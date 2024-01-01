@@ -1,0 +1,26 @@
+ JQuery with js - CSS -VAL-attr--
+------------------------------------------------
+         $('p').click(function(){
+            $('p').css('background-color','#ccc').css('color','#000').css('transform','scale(1)'); 
+
+            $(this).css({
+            	'background-color' : 'red', 
+            	'color'            : '#fff',
+            	'transform'        : 'scale(1.1)' 
+            });
+
+         });
+
+jq-js function a CSS dui vabe add kora jay.
+
+
+$('button').click(function(){
+            $('input').val('reza');
+});
+kono input tag a valu add korar jonno VAL dite hoy.
+
+
+$('h1').attr('mamun','khan')
+$('h1').removeAttr('mamun')
+ai duita diye atetiut add ba remove kore
+<h1>mamun='khan'this is atetiut</h1>

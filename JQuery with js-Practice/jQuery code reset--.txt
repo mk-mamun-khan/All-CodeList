@@ -1,0 +1,11 @@
+jQuery code reset--
+------------------------------
+(function($){
+$(document).ready(function(){
+
+
+akhon ai majthike jQuery with js code gula lekhte hobe ..
+
+
+});
+})(jQuery)

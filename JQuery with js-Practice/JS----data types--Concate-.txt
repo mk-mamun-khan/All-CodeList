@@ -1,0 +1,16 @@
+JS----data types--Concate--
+-----------------------------------------
+1. String = A-Z Holo String Data, String Data Invaited('' / "") Koma Diye Lekhte Hoy.  ('MY Name is Mamun Khan')
+
+2. Integer = 0-9 Holo Integer Data , Integer Data Invaited Koma Diye Lekhte Hoy Na. (1200 / 2200)
+
+3. Float / Double = Floa /Double Data Holo 0-9 (.)Doshomic Chinno Diye Lekha Hoy.  (5.5 / 10.7)
+
+4. Boolean = Off---0  One--1 / 01,12 Agula Holo Boolean Data. 
+
+5.  Array = Ak ar Beshi Valu Diye Kaj Korle Ata Array Data. (Allu , Lao , Tometo ,)
+
+
+Concate
+-----------------
+Ak Shathe 2-3-4 Ba Tar Beshi Valu Add Korte Hole Concate Style a Korte Hoy.("Alor Dam" + 200 + "BDT")

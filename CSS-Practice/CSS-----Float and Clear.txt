@@ -1,0 +1,14 @@
+CSS Float and Clear
+------------------------------------
+valu------float: right; / left 
+                float bebohar hoy p-tag img-tag ar ,lekha o pic dane-bame korar jonno
+    
+
+Clear---valu------clear: both; / left / right 
+                           p-tag- onek lekha dane-bame aktar opur r akta gele  dane-bame ba maje
+                             clear korte hoy,,,,  
+     
+abar before-after diye clear valu kaj kote hoy.  akadhik div-box thakle kono div-box mein box thike bahire chole gele ,before-after diye kaj korte hoy.(hight na diye kaj korle) 
+.b0x:after {
+        clear: both;
+}         

@@ -1,0 +1,30 @@
+if --else-
+-----------------
+if( true / false ){
+      	let name = 'Mamun';
+        
+      	$('h1').html('My name is ' + name);
+      }else{
+
+      	$('h1').html('My name is Mamun Khan');
+
+      }   
+
+valu== true = shotto --yes
+               false = mitha --No
+true hole oporerta ,, false hole nicherta 
+
+
+abar ata--
+      let chada = 20 ;
+      if(chada >= 100 ){
+
+      	$('h2').html('yes all ok');
+
+      }else{
+
+      	$('h2').html('no all Not ok');
+      }
+
+valu 100 ba tar beshi hote hobe .yes 
+r jodi 100 ar kom hoy taile .no hobe

@@ -1,0 +1,28 @@
+setInterval--clearInterval--
+     time set
+-----------------------------------------
+ <button id="start">strat</button>
+     <button id="stop">stop</button>
+     <h3></h3>
+
+
+  $("button#start").click(function(){
+
+           sss = setInterval(function(){
+
+             $("h3").html(nam);
+              nam--;
+             if(nam <= "" ){
+               nam = 10;
+               
+             }
+            
+           }, 1000);
+        });
+
+        $('button#stop').click(function(){
+            nam = 10;
+             clearInterval(sss);
+        });
+
+

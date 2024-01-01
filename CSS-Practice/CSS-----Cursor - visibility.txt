@@ -1,0 +1,10 @@
+CSS cursor - visibility 
+---------------------
+cursor: pointer; /copy / move /wait /cell /
+(kono word ba div-box ar opor cursor-maus chenge hobe)
+
+visibility: hidden;
+(display thike kono pic ba word hide korar jonno ,
+2 vabe kora jay)
+1. display: none; (ata korle pic je jaygay thake , jayga soho hide hoye jay.)
+2. visibility: hidden: (jayga thake shudhu pic hide hoye jay.)

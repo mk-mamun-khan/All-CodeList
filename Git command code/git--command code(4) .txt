@@ -1,0 +1,28 @@
+git--command code(4) 
+------------------------------------------   
+github and local pc connection------------------git remote
+                            and all url check----------------git remote -v
+git remote add name and REMOTE URL----------git remote add origin (URL name)
+pore git remote remove korle------------------rm -rf (remote folder name)
+
+clone korle original copy hobe , age clone kore tar pore kaj korte hoy, kaj giye github a plus hoy.
+abar arek vabe git remote add-------------git clone (URL name)
+
+
+git push---------------------git push -u origin main
+                        ba-------git push
+        
+git pull----------------git pull
+
+all branch check---------------git branch
+New branch create-------------------git branch (branch name)
+branch checkout korle----------------git checkout (branch name) 
+branch delete korle-----------------git branch -d (branch name)
+o active branch delete kora jkabe na, onno branch a giye tar pore ager branch delete korte hobe.
+ak shathe new branch create and checkout---------------git checkout -b (branch name)
+
+and new branch a kaj kore commit kore ,den remote repo te push korte hobe , ---------git push -u origin (branch name)
+je branch thikhe push korbo shei branch ar name dite hoy.
+
+local computer a main branch ar shathe merge korle----------------git merge (branch name)
+and tar pore pull kore tar pore  push korte hoy ,, remote repo te.

@@ -1,0 +1,39 @@
+ Statements-Variables-Operator--
+-----------------------------------------------------
+Statements Holo Programming ar Ak-akta Lainke Buzay.
+Programming Language ar Potita Lainer Sheshe Semiclon(;) Ditei Hobe.   (semiclon(;) na dile kono kaj korbe na )
+
+
+Variables
+----------------
+Kono Akta Nam Diye Jodi Tar Vitore akta Velu Boshano jay taile shei nam take Variables bole.
+Nam = "Mamun";  - food = "tometo";  -- Akhane Nam  O Tometo  holo Variables.
+JavaScript  A  Variables Bojanor jonno age (Let) Boshano hoy
+Let Nam = "Mamun";   --Tobe (Let) Na Dile O hoy.
+
+$('h1').html('My name is ' + name);
+Let name = "Mamun khan";
+Result= My name is Mamun khan 
+
+
+Operator
+----------------
++   -   *   /   %   =   ==    ===    <   >    <=    >=     &&    ||     !   AND OR  NOT    ++    --
++ Plus
+- Minus
+* Multiplication
+/ division
+% Modulus
+= Equal
+==DabolEqual
+===TipolEqual
+<Lesden
+>Getarden
+<=LesdenEqual
+>=GetardenEqual
+&& And
+|| Or
+! Not
+++ Inciment
+-- Diciment
+

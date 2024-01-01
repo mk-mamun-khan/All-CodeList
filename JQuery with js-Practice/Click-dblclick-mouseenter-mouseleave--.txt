@@ -1,0 +1,28 @@
+Click-dblclick-mouseenter-mouseleave-
+--------------------------------------------------------------
+<button>Add</button>
+
+
+$('button').click(function(){                                        
+
+alert(' hi ');
+
+});
+
+$('button').dblclick(function(){
+
+alert(' hi ');
+
+});
+
+$('button').mouseenter(function(){
+
+alert(' hi ');
+
+});
+
+$('button').mouseleave(function(){
+
+alert(' hi ');
+
+});

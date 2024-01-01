@@ -1,0 +1,27 @@
+git--command code(2)     
+-------------------------------------------
+pc te kothai asi  ta check----pwd
+ki ki file ase akhane ta check---------ls
+kono file a dukbo----------------- cd (file name)
+kono file thike back korbo----------cd ..
+kono file khulbo-----------mkdir (file name)
+khali file check-------ls -a
+git chalu korbo----------- git init
+abar khali file check-------ls -a
+txt new file add--------------touch day1.txt
+txt file open------------open  day1.txt
+file status check-----------git status
+
+git ar 3ta dhap    -----------------------------------       Working-directory         Stagging-area       Local-repository
+
+
+git a file add kora ba stagging-area---------git add .    (all file add)
+                                                                        git add day1.txt    (akta file add hobe)
+abar file status check-----------git status
+file motifeiy kore abar back------------git restore 
+abar file untracked korle-------------git rm --cached    (file name(je file korbo)
+file a new word add kore ki add korlam ta check-----------git diff
+
+-------------------------
+------------------------
+------------------------

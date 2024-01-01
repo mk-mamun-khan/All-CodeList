@@ -1,0 +1,23 @@
+git--command code(3) 
+------------------------------------------   
+Local-repository file add---------------git commit -m "kisu message"
+commit korar por commit history check---------git log
+git add ba commit duita ak shathe korle-----------git add day2.txt && git commit -m "kisu message"
+file name na diye . diley hoy
+
+uncommit korle---------------- git reset --soft HEAD^          --------ata korle local repo thike uncommit hobe 
+                                             git reset HEAD^                -----------ata korle uncommit o Stagging area thike chole jabe working directory ta
+                                            git reset --hard  HEAD^          ---------ata korle mine file delete hoye jabe
+                                           git reset --soft HEAD~2        ----------ata korle 2 dile 2ta 3 dile 3ta uncommit hobe
+
+commit shot kore ak line a dhekle----------------- git log --oneline
+commit all details dhekle-------------------- git show (commit ID)
+
+git reset na kore akta commit thike r akta commit a safeli gele------------------git checkout (commit ID)
+abar reset kota sob commit a fire aste chaile--------------------------------------- git checkout master
+
+jodi kono file ke ignore korate chai, age ignore file korte hobe----------touch .gitignore 
+tar pore .gitignore file open kore kon-kon file ignore korte hobe ta bole dite hobe, *txt bolle .txt joto file ase sob ignore korbe
+r ar moddhe akta txt file ignore na korate chaile dite hobe---------------------!filename.txt
+                                                                                                                               != not (file name) .txt
+r kono folder ignore korate chaile dite hobe, shudhu folder ar name r shese /   jemon----------------newfolder/

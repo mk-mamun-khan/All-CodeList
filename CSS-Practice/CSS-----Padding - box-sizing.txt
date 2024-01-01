@@ -1,0 +1,11 @@
+CSS Padding - Box-sizing
+---------------------------------------------
+1. padding-top                            valu
+2. padding-bottom                   ----------- 
+3.padding-left                          padding: 20px 20px 20px 20px;           padding: 50px;          padding: 20px  20px;
+4. padding-right                                      top-right-b0ttom-left                               all                          top-bottom / left-right 
+
+
+box-sizing: border-box;
+kono box ba input a jodi otirikto padding hoye box div ar bahire chole jay taile (box- sizing) diye 
+seta sizing kora hoy.

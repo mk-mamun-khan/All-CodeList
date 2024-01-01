@@ -1,0 +1,16 @@
+CSS before-after - nth-child
+--------------------------------
+before= kono box div ba text ar (age) kono text ,font,ba  #@%$@&  boshano hoy.
+after= kono box div ba text ar (last a) kono text ,font,ba  #@%$@&  boshano hoy.
+
+h1:before { 
+       content:' ';                                 h1:after {
+ }                                                                  content:' ';    
+                                                           }
+
+
+
+nth-child()= div-box ar vitore (a) tag akadhik thakle je kono akti ke kaj korar jonno nth-child() bebohar kora hoy.
+
+.box a:nth-child(2)   
+                            (number)

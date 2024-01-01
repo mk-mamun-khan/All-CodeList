@@ -1,0 +1,12 @@
+CSS Celectors
+-----------------------
+<p> <div> class: " box"</div> this is celectors </p>              
+<p> div> class: " box2"</div> this is celectors </p>
+
+.box {                                           .box2 {
+       color: red ;                                  color: green ;
+}                                                    }
+
+akhane duitai 'p tag'
+
+akta tag akadhik bar thakle ak-akta " div  class ba id'  diye alada kaj korte hoy .

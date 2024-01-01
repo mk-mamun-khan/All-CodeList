@@ -1,0 +1,28 @@
+jq-js-append , prepend , before , after
+-----------------------------------------------------------
+
+ $('button').click(function(){
+                 $('h1').append('-Rezaaaa-');
+});
+dhori--
+button --- add
+h1 tag --- mk 
+append hole pore bosbe  ----- mk-Rezaaaa-
+prepend hole age bosbe ----  -Rezaaaa-mk
+ ai duita h1 tag ar vitore boshe
+
+
+ $('button').click(function(){
+                 $('h1').before('-Rezaaaa-');
+});
+dhori--
+button --- add
+h1 tag --- mk 
+                                                                          -Rezaaaa-
+before hole h1 tag ar age bosbe  ----- mk
+after hole h1 tag ar pore bosbe ---- mk
+                                                                     -Rezaaaa-
+ ai duita h1 tag ar bahire boshe
+ai gular kaj holo facebook ba je kono commend cuyality vabe kaj kore
+
+

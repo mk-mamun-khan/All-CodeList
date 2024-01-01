@@ -1,0 +1,36 @@
+Form validation----
+
+
+
+//button submit
+		let uname, pass;
+		$('input#sub').click(function(){
+			uname = $('input#uname').val();
+			pass = $('input#pass').val();
+
+            //for username field
+			if(uname == ""){
+				$('p#uname').html('<span style="color:red; font-size:12px;">* Required</span>');
+				$('input#uname').css('border-color','red');
+
+			}else{
+				$('p#uname').html('');
+				$('input#uname').css('border-color','#333');
+
+			}
+            //for password field
+			if(pass == ""){
+				$('p#pass').html('<span style="color:red; font-size:12px;">* Required</span>');
+				$('input#pass').css('border-color','red');
+
+			}else{
+				$('p#pass').html('');
+				$('input#pass').css('border-color','#333');
+
+			}
+			
+
+
+
+
+		});
